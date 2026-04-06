@@ -1,0 +1,26 @@
+{
+  "short_name": "FitTrack",
+  "name": "FitTrack — Programme Perte de Poids",
+  "description": "Ton coach nutrition et sport personnalisé",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0a0f0d",
+  "background_color": "#0a0f0d",
+  "lang": "fr",
+  "categories": ["health", "fitness", "lifestyle"]
+}
